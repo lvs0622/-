@@ -9,8 +9,8 @@ This project demonstrates how to use a sparsely activated Mixture of Experts mod
 
 
 ### Project Structure
-├── moe_regression.py      # Main code file  
-└── README.md              # Project documentation
+├── moe_regression.ipynb     
+└── README.md            
 
 
 ### Model Architecture
